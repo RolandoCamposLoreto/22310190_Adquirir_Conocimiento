@@ -1,5 +1,75 @@
 {
-"hola": "¡Hola! ¿Cómo estás?",
-"como estas": "Estoy bien, gracias. ¿Y tú?",
-"de que te gustaria hablar": "Podemos hablar de tecnología, de Intel o de lo que quieras."
+    "hola": ["¡Hola! ¿Cómo estás?", "¡Hey! ¿Qué tal?", "¡Hola! Me alegra verte por aquí."],
+    "buenos dias": ["¡Buenos días! ¿Cómo te encuentras hoy?", "¡Buen día! Espero que tengas un excelente día."],
+    "buenas tardes": ["¡Buenas tardes! ¿Qué tal tu día?", "¡Buenas tardes! ¿Cómo va todo?"],
+    "buenas noches": ["¡Buenas noches! Que descanses.", "¡Buenas noches! ¿Cómo estuvo tu día?"],
+    "como estas": ["Estoy bien, gracias. ¿Y tú?", "Todo perfecto, ¿y tú?", "¡Muy bien! ¿Y tú?"],
+    "que tal": ["Todo bien, gracias. ¿Y tú?", "¡Hola! ¿Qué tal todo?", "¡Qué gusto verte! Todo bien?"],
+    "hey": ["¡Hey! ¿Cómo va todo?", "¡Hola! ¿Qué onda?", "¡Hey! Me alegra verte."],
+    "holaaa": ["¡Hola! Me alegra verte por aquí.", "¡Holaaa! ¿Cómo estás?", "¡Hey! Qué bueno verte."],
+    
+    "quien es el dueño de intel": ["Intel es una empresa pública, sus principales accionistas son inversores institucionales y privados."],
+    "quien fundo intel": ["Intel fue fundada en 1968 por Robert Noyce y Gordon Moore."],
+    "quien es el ceo de intel": ["El CEO actual de Intel es Patrick Gelsinger."],
+    "cuando se fundo intel": ["Intel fue fundada en julio de 1968."],
+    "en que pais esta intel": ["Intel tiene su sede principal en Santa Clara, California, Estados Unidos."],
+    
+    "que hace intel": ["Intel diseña y fabrica microprocesadores, memoria, chips para centros de datos, soluciones de IA, conectividad y plataformas de computación en la nube."],
+    "productos de intel": ["CPU (Core, Xeon, Atom), memoria y almacenamiento (SSD, Optane), GPUs, FPGAs, redes y plataformas de software como oneAPI."],
+    "areas de negocio de intel": ["Microprocesadores, memoria y almacenamiento, redes, inteligencia artificial, centros de datos y plataformas de computación."],
+    "competidores de intel": ["Sus principales competidores incluyen AMD, NVIDIA, Qualcomm y TSMC."],
+    "logros de intel": ["Inventó la primera memoria DRAM comercial, desarrolló la arquitectura x86 y lidera la innovación en semiconductores y computación de alto rendimiento."],
+    "curiosidades de intel": ["Intel lanzó la primera CPU 4004, tiene récord de más transistores en un chip, y fue clave en la revolución de las PC modernas."],
+    
+    "historia de intel": ["Fundada en 1968, Intel inventó la memoria DRAM comercial, los microprocesadores x86 y ha liderado la innovación en semiconductores por más de 50 años."],
+    "primera cpu de intel": ["La primera CPU de Intel fue la 4004, lanzada en 1971."],
+    "arquitectura de intel": ["La arquitectura principal es x86, utilizada en la mayoría de PCs y servidores."],
+    "que es una cpu": ["La CPU es el cerebro de la computadora; ejecuta instrucciones y procesa información."],
+    "innovaciones de intel": ["Intel ha innovado en microprocesadores, memoria RAM, SSD, chips de IA, redes y gráficos integrados."],
+    
+    "procesadores de intel": ["Intel Core, Xeon, Atom, Pentium y Celeron son algunas de sus familias de procesadores."],
+    "gpu de intel": ["Intel produce GPUs integradas y dedicadas, incluyendo Intel Iris Xe y soluciones para IA y HPC."],
+    "memoria intel": ["Intel produce memorias DDR, Optane, y unidades SSD para consumidores y centros de datos."],
+    
+    "que es ia": ["IA es Inteligencia Artificial, sistemas que simulan la inteligencia humana para tareas como reconocimiento de patrones o predicción."],
+    "intel y ia": ["Intel desarrolla hardware y software para IA, incluyendo CPUs optimizadas, GPUs, FPGAs y frameworks de IA como oneAPI."],
+    
+    "fabricas de intel": ["Intel tiene fábricas en Estados Unidos, Irlanda, Israel, China y otros países."],
+    "investigacion de intel": ["Intel invierte miles de millones en I+D cada año para semiconductores, IA, computación cuántica y tecnologías emergentes."],
+    
+    "sistemas operativos intel": ["Intel fabrica chips compatibles con Windows, Linux y macOS en plataformas de PCs y servidores."],
+    "seguridad intel": ["Intel ofrece tecnologías como Intel SGX y Intel vPro para seguridad y protección de datos."],
+    "novedades intel": ["Intel lanza nuevas generaciones de procesadores, GPUs y soluciones de IA cada año, como Intel Alder Lake y Meteor Lake."],
+    
+    "programas de intel": ["Intel AI Academy, Intel Software Innovators y programas de formación y becas en tecnología."],
+    "colaboraciones de intel": ["Intel colabora con Microsoft, Amazon, Google, universidades y empresas de semiconductores a nivel global."],
+    
+    "intel y pc": ["Intel es líder en procesadores para PC y servidores desde la década de 1980."],
+    "intel y datacenter": ["Intel ofrece CPUs Xeon, memoria Optane y soluciones de networking para centros de datos y cloud."],
+    
+    "futuro de intel": ["Intel apuesta por IA, computación de alto rendimiento, semiconductores avanzados, chips 3D y sostenibilidad."],
+    "intel y sostenibilidad": ["Intel se compromete a reducir emisiones, eficiencia energética en fábricas y reciclaje de semiconductores."],
+    
+    "noticias de intel": ["Intel anuncia lanzamientos de procesadores, chips de IA, adquisiciones y colaboraciones tecnológicas globales."],
+    "premios de intel": ["Intel ha recibido premios por innovación tecnológica, liderazgo empresarial y sostenibilidad."],
+    
+    "datos curiosos de intel": ["El logo original de Intel era azul con un 'dropped-e', Intel fue parte clave del PC moderno, y su primer microprocesador fue 4004."],
+    "productos recientes de intel": ["Intel Alder Lake, Raptor Lake, Intel Arc GPU, Intel Optane y procesadores Xeon para IA."],
+    
+    "como se llama la arquitectura de intel": ["x86 es la arquitectura principal, pero también trabajan con ARM para ciertos chips y Xeon Phi para HPC."],
+    "intel y open source": ["Intel contribuye a Linux, TensorFlow, OpenVINO y otros proyectos de código abierto."],
+    
+    "intel y cloud": ["Intel provee CPUs, FPGAs y aceleradores para servicios en la nube como AWS, Azure y Google Cloud."],
+    "intel y robots": ["Intel desarrolla chips, sensores y tecnologías de IA aplicables a robótica y automatización."],
+    
+    "como trabaja intel": ["Intel combina diseño de chips, fabricación avanzada, software optimizado y ecosistema global de partners."],
+    "intel y educacion": ["Intel apoya educación STEM con programas para estudiantes y profesores en todo el mundo."],
+    
+    "como invertir en intel": ["Intel es una compañía pública que cotiza en NASDAQ bajo el símbolo INTC."],
+    "acciones de intel": ["Los inversores pueden comprar acciones INTC, y los resultados financieros se publican trimestralmente."],
+    
+    "intel y tecnologia": ["Intel es pionera en semiconductores, procesadores, IA, memoria, conectividad y computación de alto rendimiento."],
+    "intel y iot": ["Intel desarrolla soluciones de Internet de las Cosas (IoT) incluyendo chips, sensores y plataformas de análisis de datos."],
+    
+    "preguntas frecuentes intel": ["Puedes preguntar sobre historia, productos, CEO, fundadores, tecnologías, curiosidades y últimas noticias de Intel."]
 }
